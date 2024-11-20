@@ -1,7 +1,20 @@
-# Microsoft-Teams-Trick-using-Python
-Use this code to stay online in Microsoft Teams even when you are away from your system.
-using pip command install pyautogui
-run the code
-after running the code in Microsoft Teams go to chat section and select any one chat and click on the text bar to input text
-the code will automatically type the letter which is mentioned in the code in the intervals of 10 seconds and you will stay online.
-No hack just skill xd
+# Microsoft Teams Activity Automation Using Python
+
+This Python script automates typing in Microsoft Teams chat to keep your status "active," even when you're away from your system.
+
+## Features
+- Simulates keyboard input at regular intervals (every 10 seconds).
+- Helps maintain "active" status without manual intervention.
+- Easy setup using Python's `pyautogui` library.
+
+---
+
+## Prerequisites
+
+1. **Python Installed**  
+   Ensure Python is installed on your system. If not, download and install it from the [official Python website](https://www.python.org/).
+
+2. **Install Dependencies**  
+   Open a terminal or command prompt and install the required library using:
+   ```bash
+   pip install pyautogui
