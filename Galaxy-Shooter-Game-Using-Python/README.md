@@ -83,5 +83,42 @@ python galaxy_shooter.py
 - **Game Over:**
   - The game ends if an enemy crosses the bottom threshold.
 
+## 🏆 6. Scoring System
+
+- Each enemy destroyed earns **1 point**.
+- Your score is displayed at the top left of the screen.
+- The game ends when an enemy reaches the bottom, and the final score is displayed.
+
+---
+
+## 📁 7. Project Structure
+```
+📦 galaxy-shooter-game
+├─ 🖼️ Space.jpg           # Background image
+├─ 🛸 ufo.png             # Game icon
+├─ 🚀 player.png          # Player spaceship
+├─ 👾 enemy.png           # Enemy spaceship
+├─ 🔫 bullet.png          # Bullet image
+├─ 🎵 b1.wav              # Bullet firing sound
+├─ 💥 e1.wav              # Explosion sound
+├─ 📝 freesansbold.ttf     # Font file
+└─ 🟡 galaxy_shooter.py   # Main game code
+```
+
+---
+
+## 📜 8. License
+
+This project is licensed under the **MIT License**.  
+Feel free to modify and distribute the game as long as proper credit is given.
+
+---
+
+## 🚀 9. Conclusion
+
+Enjoy the **Galaxy Shooter** game!  
+Feel free to contribute, suggest improvements, or report issues.  
+
+💫 **Happy Gaming!**
 
 
