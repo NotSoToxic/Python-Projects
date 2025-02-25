@@ -27,9 +27,9 @@ This project is a **Hand Gesture Recognition System** built with Python, OpenCV,
 📦 hand-gesture-recognition 
 ├─ 📜 gesture_recognition.py # Main Python code 
 ├─ 📄 gesture.names # Gesture class names 
-├─ 🤖 mp_hand_gesture # Trained hand gesture model 
+├─ 🤖 mp_hand_gesture # Trained hand gesture model
+├─ 📄 data.pickle # Pickle file containing training data 
 ├─ 📂 dataset # (Optional) Dataset for training 
-├─ 📷 screenshots/ # Example outputs 
 └─ 📃 README.md # Project documentation
 ```
 
